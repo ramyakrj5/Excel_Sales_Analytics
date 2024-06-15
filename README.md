@@ -37,3 +37,12 @@
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+## My Excel Work:
+![sc](https://github.com/ramyakrj5/Excel_Sales_Analytics/blob/main/Sales%20Analytics%20(1)-images-0.jpg)
+![sc](https://github.com/ramyakrj5/Excel_Sales_Analytics/blob/main/Sales%20Analytics%20(1)-images-1.jpg)
+![sc](https://github.com/ramyakrj5/Excel_Sales_Analytics/blob/main/Sales%20Analytics%20(1)-images-2.jpg)
+![sc](https://github.com/ramyakrj5/Excel_Sales_Analytics/blob/main/Sales%20Analytics%20(1)-images-3.jpg)
+![sc](https://github.com/ramyakrj5/Excel_Sales_Analytics/blob/main/Sales%20Analytics%20(1)-images-4.jpg)
+![sc](https://github.com/ramyakrj5/Excel_Sales_Analytics/blob/main/Customer%20Net%20Sales%20Performance%20(1)-images-0.jpg)
+![sc](https://github.com/ramyakrj5/Excel_Sales_Analytics/blob/main/Customer%20Net%20Sales%20Performance%20(1)-images-1.jpg)
